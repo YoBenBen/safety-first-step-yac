@@ -1,3 +1,13 @@
+# macOS junk
+.DS_Store
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# NFL tracking data (do not commit)
 data/
-*.csv
-*.parquet
+
